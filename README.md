@@ -25,9 +25,9 @@ The front experience is a simple GUI to to take inputs from user :
 You can experience the app at `https://deepeshdesigns.github.io/ofx/`
 
 ## Frontend of the app
-![Screenshot](Desktop.PNG)
+![Screenshot](Desktop.png)
 
-![Screenshot](MobileView.PNG)
+![Screenshot](MobileView.png)
 
 
 ## Production server
