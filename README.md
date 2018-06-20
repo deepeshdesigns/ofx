@@ -1,4 +1,4 @@
-## About the app
+## A Reactjs based online currency calculator with real time exchange rates using OFX API
 #Angular 6 based B2C currency calculator app which is based on the ofx currency calculator API
 
 ##About OFX
