@@ -1,5 +1,6 @@
 ## A Reactjs based online currency calculator with real time exchange rates using OFX API
 
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ##About OFX
 OFX, previously known as OzForex is an Australian online foreign exchange and payments company with headquarters in Sydney.
